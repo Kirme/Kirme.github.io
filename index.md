@@ -2,32 +2,22 @@
 
 ---
 
-### Category Name 1 
+### Coursework 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Through The Void](https://throughthevoidcom.wordpress.com/)
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Out of Sight](https://aureleboquet.wordpress.com/)
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Smoke Simulation](https://unitysmokesimulation.wordpress.com/)
 
 ---
 
+### Research
 
+[The Impact of Social Distancing on Evacuations using Crowd Simulations](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1597397&dswid=-4146)
 
 
 ---
