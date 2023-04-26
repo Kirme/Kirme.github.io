@@ -5,13 +5,16 @@
 ### Coursework 
 
 [Through The Void](https://throughthevoidcom.wordpress.com/)
+<img src="images/throughthevoid.png?raw=true"/>
 
 ---
 [Out of Sight](https://aureleboquet.wordpress.com/)
+<img src="images/outofsight.png?raw=true"/>
 
 ---
 
 [Smoke Simulation](https://unitysmokesimulation.wordpress.com/)
+<img src="images/smokesim.png?raw=true"/>
 
 ---
 
