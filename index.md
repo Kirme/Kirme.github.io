@@ -6,15 +6,18 @@
 
 [Through The Void](https://throughthevoidcom.wordpress.com/)
 <img src="images/throughthevoid.png?raw=true"/>
+[Repository](https://github.com/Kirme/Through-The-Void)
 
 ---
 [Out of Sight](https://aureleboquet.wordpress.com/)
 <img src="images/outofsight.png?raw=true"/>
+[Repository](https://github.com/MWippich/Through-The-Woods)
 
 ---
 
 [Smoke Simulation](https://unitysmokesimulation.wordpress.com/)
 <img src="images/smokesim.png?raw=true"/>
+[Repository](https://github.com/Kirme/smokesim)
 
 ---
 
