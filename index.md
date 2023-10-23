@@ -23,7 +23,7 @@
 
 ### Research
 
-[The Impact of Social Distancing on Evacuations using Crowd Simulations](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1597397&dswid=-4146)
+[The Impact of Social Distancing on Evacuations using Crowd Simulations](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1597397&dswid=-4146)  
 [The Speed of Clouds: Utilizing Adaptive Sampling to Optimize a Real-Time Volumetric Cloud Renderer](https://kth.diva-portal.org/smash/record.jsf?dswid=-3902&pid=diva2%3A1782871)
 
 
